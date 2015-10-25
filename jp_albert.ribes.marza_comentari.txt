@@ -1,0 +1,4 @@
+Aquest joc de proves conte un conjunt de proves bastant generic que está agrupat per operacions que son
+del mateix tipus. Concretament el joc es centra en consultes sobre l'estat del programa i posa un especial
+enfasi en casos extraordinaris com entrades mal escrites o consultes prohibides o assignacions de dates
+prohibides. Tambe posa a prova casos d'expressions complicades.

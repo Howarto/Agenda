@@ -1,0 +1,75 @@
+rellotge?
+rellotge 15:30
+rellotge?
+rellotge 12:00
+rellotge?
+rellotge 30.07.15
+rellotge?
+rellotge 20:00
+rellotge?
+rellotge 01.08.15 11:15
+rellotge? 
+rellotge 15:45 02.08.15
+rellotge?
+
++ cole 03.08.15 09:00 #mates #catalan #filosofia #amigos
++ futbolin 03.08.15 17:00 #amigos #bar #merienda #juego
++ comida 14:00 #comida #amigos #sopa #postre #canelones
++ 14:30 #amigos #juego #airelibre descanso
+
++ estudio #amigos #mates #filosofia 13:30 #trabajo 03.08.15
+
++ #comida #tardes merienda 17:30 #amigos
++ descansando 17:30
+
++ quedada con los amigos en el cine #amigos #cine #pelicula 19:30
+
++ prueba mala 25.06.15 12:00
+
+
+
+
+?
+
+passat?
+
+
+
+? 02.08.15
+? 02.08.15 10.08.15
+? 01.08.15
+? 10.08.15 02.08.15
+
+? #bar
+? #amigos
+? mates
+? (#amigos,#bar)
+? (#mates,(#catalan,filosofia))
+? (#comer,(#sopa,(#merienda,#bar)))
+? ((#mates.(#catalan.filosofia)),(#amigos.(#juego.#bar)))
+
+? 02.08.15 10.08.15 (#amigos,#juego)
+? 04.05.15 (#mates,(#catalan,#filosofia))
+
+?
+1 #aburrimiento
+?
+2 #parque #novia #tiempolibre
+?
+
+-4
+?
+3 20.08.15 #aplazado
+
+?
+-1
+?
+-1
+?
+-5
+?
+
+1 -#merienda
+?
+
+sortir

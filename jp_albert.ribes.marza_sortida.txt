@@ -1,0 +1,221 @@
+
+rellotge?
+20.04.15 00:00
+
+rellotge 15:30
+
+rellotge?
+20.04.15 15:30
+
+rellotge 12:00
+No s'ha realitzat
+
+rellotge?
+20.04.15 15:30
+
+rellotge 30.07.15
+
+rellotge?
+30.07.15 15:30
+
+rellotge 20:00
+
+rellotge?
+30.07.15 20:00
+
+rellotge 01.08.15 11:15
+
+rellotge? 
+01.08.15 11:15
+
+rellotge 15:45 02.08.15
+
+rellotge?
+02.08.15 15:45
+
+
+
++ cole 03.08.15 09:00 #mates #catalan #filosofia #amigos
+
++ futbolin 03.08.15 17:00 #amigos #bar #merienda #juego
+
++ comida 14:00 #comida #amigos #sopa #postre #canelones
+No s'ha realitzat
+
++ 14:30 #amigos #juego #airelibre descanso
+No s'ha realitzat
+
+
+
++ estudio #amigos #mates #filosofia 13:30 #trabajo 03.08.15
+
+
+
++ #comida #tardes merienda 17:30 #amigos
+
++ descansando 17:30
+No s'ha realitzat
+
+
+
++ quedada con los amigos en el cine #amigos #cine #pelicula 19:30
+
+
+
++ prueba mala 25.06.15 12:00
+No s'ha realitzat
+
+
+
+
+
+
+
+
+
+?
+1 merienda 02.08.15 17:30 #amigos #comida #tardes
+2 quedada con los amigos en el cine 02.08.15 19:30 #amigos #cine #pelicula
+3 cole 03.08.15 09:00 #amigos #catalan #filosofia #mates
+4 estudio 03.08.15 13:30 #amigos #filosofia #mates #trabajo
+5 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+
+
+
+passat?
+
+
+
+
+
+
+
+? 02.08.15
+1 merienda 02.08.15 17:30 #amigos #comida #tardes
+2 quedada con los amigos en el cine 02.08.15 19:30 #amigos #cine #pelicula
+
+? 02.08.15 10.08.15
+1 merienda 02.08.15 17:30 #amigos #comida #tardes
+2 quedada con los amigos en el cine 02.08.15 19:30 #amigos #cine #pelicula
+3 cole 03.08.15 09:00 #amigos #catalan #filosofia #mates
+4 estudio 03.08.15 13:30 #amigos #filosofia #mates #trabajo
+5 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+
+? 01.08.15
+
+? 10.08.15 02.08.15
+
+
+
+? #bar
+1 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+
+? #amigos
+1 merienda 02.08.15 17:30 #amigos #comida #tardes
+2 quedada con los amigos en el cine 02.08.15 19:30 #amigos #cine #pelicula
+3 cole 03.08.15 09:00 #amigos #catalan #filosofia #mates
+4 estudio 03.08.15 13:30 #amigos #filosofia #mates #trabajo
+5 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+Error de format
+
+? (#amigos,#bar)
+1 merienda 02.08.15 17:30 #amigos #comida #tardes
+2 quedada con los amigos en el cine 02.08.15 19:30 #amigos #cine #pelicula
+3 cole 03.08.15 09:00 #amigos #catalan #filosofia #mates
+4 estudio 03.08.15 13:30 #amigos #filosofia #mates #trabajo
+5 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+Error de format
+
+? (#comer,(#sopa,(#merienda,#bar)))
+1 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+Error de format
+
+
+
+? 02.08.15 10.08.15 (#amigos,#juego)
+1 merienda 02.08.15 17:30 #amigos #comida #tardes
+2 quedada con los amigos en el cine 02.08.15 19:30 #amigos #cine #pelicula
+3 cole 03.08.15 09:00 #amigos #catalan #filosofia #mates
+4 estudio 03.08.15 13:30 #amigos #filosofia #mates #trabajo
+5 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+
+? 04.05.15 (#mates,(#catalan,#filosofia))
+
+
+
+?
+1 merienda 02.08.15 17:30 #amigos #comida #tardes
+2 quedada con los amigos en el cine 02.08.15 19:30 #amigos #cine #pelicula
+3 cole 03.08.15 09:00 #amigos #catalan #filosofia #mates
+4 estudio 03.08.15 13:30 #amigos #filosofia #mates #trabajo
+5 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+
+1 #aburrimiento
+
+?
+1 merienda 02.08.15 17:30 #aburrimiento #amigos #comida #tardes
+2 quedada con los amigos en el cine 02.08.15 19:30 #amigos #cine #pelicula
+3 cole 03.08.15 09:00 #amigos #catalan #filosofia #mates
+4 estudio 03.08.15 13:30 #amigos #filosofia #mates #trabajo
+5 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+
+2 #parque #novia #tiempolibre
+
+?
+1 merienda 02.08.15 17:30 #aburrimiento #amigos #comida #tardes
+2 quedada con los amigos en el cine 02.08.15 19:30 #amigos #cine #novia #parque #pelicula #tiempolibre
+3 cole 03.08.15 09:00 #amigos #catalan #filosofia #mates
+4 estudio 03.08.15 13:30 #amigos #filosofia #mates #trabajo
+5 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+
+
+
+-4
+
+?
+1 merienda 02.08.15 17:30 #aburrimiento #amigos #comida #tardes
+2 quedada con los amigos en el cine 02.08.15 19:30 #amigos #cine #novia #parque #pelicula #tiempolibre
+3 cole 03.08.15 09:00 #amigos #catalan #filosofia #mates
+4 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+
+3 20.08.15 #aplazado
+
+
+
+?
+1 merienda 02.08.15 17:30 #aburrimiento #amigos #comida #tardes
+2 quedada con los amigos en el cine 02.08.15 19:30 #amigos #cine #novia #parque #pelicula #tiempolibre
+3 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+4 cole 20.08.15 09:00 #amigos #aplazado #catalan #filosofia #mates
+
+-1
+
+?
+1 quedada con los amigos en el cine 02.08.15 19:30 #amigos #cine #novia #parque #pelicula #tiempolibre
+2 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+3 cole 20.08.15 09:00 #amigos #aplazado #catalan #filosofia #mates
+
+-1
+
+?
+1 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+2 cole 20.08.15 09:00 #amigos #aplazado #catalan #filosofia #mates
+
+-5
+No s'ha realitzat
+
+?
+1 futbolin 03.08.15 17:00 #amigos #bar #juego #merienda
+2 cole 20.08.15 09:00 #amigos #aplazado #catalan #filosofia #mates
+
+
+
+1 -#merienda
+
+?
+1 futbolin 03.08.15 17:00 #amigos #bar #juego
+2 cole 20.08.15 09:00 #amigos #aplazado #catalan #filosofia #mates
+
+
+
+sortir

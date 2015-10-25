@@ -1,0 +1,571 @@
+
++ patata 12:00 #troll
+
++ tomate 00:00
+
++ pepino 19.04.15 00:00
+No s'ha realitzat
+
++ calabaza 19.04.15 23:59 #troll
+No s'ha realitzat
+
++ lechuga 25.04.15 17:00 #guachiturro
+
++ puerro 25.04.15 23:59
+
++ mazorca 26.04.15 00:00 #belieber #muchacho #chacho
+
++ espinacas 02.04.96 13:45 #troll
+
++ albert 06.06.66 00:00 #belieber #muchacho #troll
+
++ a 00:00 #x #z #beli #trol
+No s'ha realitzat
+
++ b 01:00 #l #s #arte
+
++ c 02:00 #z #y #trol #arte
+
++ d 03:00 #q #x #t
+
++ sabueso 15:00 #T
+
+?
+1 tomate 20.04.15 00:00
+2 b 20.04.15 01:00 #arte #l #s
+3 c 20.04.15 02:00 #arte #trol #y #z
+4 d 20.04.15 03:00 #q #t #x
+5 patata 20.04.15 12:00 #troll
+6 sabueso 20.04.15 15:00 #T
+7 lechuga 25.04.15 17:00 #guachiturro
+8 puerro 25.04.15 23:59
+9 mazorca 26.04.15 00:00 #belieber #chacho #muchacho
+10 albert 06.06.66 00:00 #belieber #muchacho #troll
+11 espinacas 02.04.96 13:45 #troll
+
+
+
+? #troll
+1 patata 20.04.15 12:00 #troll
+2 albert 06.06.66 00:00 #belieber #muchacho #troll
+3 espinacas 02.04.96 13:45 #troll
+
+? (#troll,(#belieber.#muchacho))
+1 patata 20.04.15 12:00 #troll
+2 mazorca 26.04.15 00:00 #belieber #chacho #muchacho
+3 albert 06.06.66 00:00 #belieber #muchacho #troll
+4 espinacas 02.04.96 13:45 #troll
+
+? (#troll,(#belieber.#belieber),(#baba,#wanana))
+1 patata 20.04.15 12:00 #troll
+2 mazorca 26.04.15 00:00 #belieber #chacho #muchacho
+3 albert 06.06.66 00:00 #belieber #muchacho #troll
+4 espinacas 02.04.96 13:45 #troll
+
+? (#trol.(#bonachon,#madre),(#belieber.(#troll,(#troll,(#troll.#muchacho)))))
+1 albert 06.06.66 00:00 #belieber #muchacho #troll
+
+? (#troll,(#belieber,#muchacho)) 20.04.15 25.01.18
+1 patata 20.04.15 12:00 #troll
+2 mazorca 26.04.15 00:00 #belieber #chacho #muchacho
+
+? (#troll,(#belieber.#belieber),(#baba,#wanana)) 20.04.15 25.01.18
+1 patata 20.04.15 12:00 #troll
+2 mazorca 26.04.15 00:00 #belieber #chacho #muchacho
+
+? (#trol.(#bonachon,#madre),(#belieber.(#troll,(#hal,(#troll.#muchacho))))) 20.04.15 25.01.18
+
+? (#troll,(#belieber.#muchacho)) 01.04.15 25.01.18
+1 patata 20.04.15 12:00 #troll
+2 mazorca 26.04.15 00:00 #belieber #chacho #muchacho
+
+? (#troll,(#belieber.#belieber),(#baba,#wanana)) 01.04.15 25.01.18
+1 patata 20.04.15 12:00 #troll
+2 mazorca 26.04.15 00:00 #belieber #chacho #muchacho
+
+? (#trol.(#bonachon,#madre),(#belieber.(#troll,(#hal,(#troll.#muchacho))))) 01.04.15 25.01.18
+
+? (#troll,(#belieber.#muchacho)) 01.04.15 02.01.18
+1 patata 20.04.15 12:00 #troll
+2 mazorca 26.04.15 00:00 #belieber #chacho #muchacho
+
+? (#troll,(#belieber.#belieber),(#baba,#wanana)) 01.04.15 02.01.18
+1 patata 20.04.15 12:00 #troll
+2 mazorca 26.04.15 00:00 #belieber #chacho #muchacho
+
+? (#troll,(#belieber.#muchacho)) 25.01.18 01.04.15
+
+? (#troll,(#belieber.#belieber),(#baba,#wanana)) 25.01.18 01.04.15
+
+? (#trol.(#bonachon,#madre),(#belieber.(#troll,(#hal,(#troll.#muchacho))))) 25.01.18 01.04.15
+
+? (#trol.(#bonachon,#madre),((#bababuya),(#belieber).(#troll)))
+1 albert 06.06.66 00:00 #belieber #muchacho #troll
+
+? (#trol.(#bonachon,#madre),((#belieber,#lala.(#lolal.#la).(#sao,#sopa)).(#troll,(#hal,(#troll.#muchacho))))) 01.04.15 02.01.18
+
+
+
+? (#beli,(#arte.#trol)) 20.04.15
+1 c 20.04.15 02:00 #arte #trol #y #z
+
+
+
+? (((#x,#y).#z),(#l.#q),((#l.#x),#s)) 20.04.15 21.04.15
+1 b 20.04.15 01:00 #arte #l #s
+2 c 20.04.15 02:00 #arte #trol #y #z
+
+? ((((#x,#y),(#z.#q)).#s),#t)
+
+
+
+? ((#F,#T).((#T.#F).(#T.#F)))
+
+? ((#T,#T).((#T.#T).(#T.#T)))
+1 sabueso 20.04.15 15:00 #T
+
+? ((#F.#F),#T)
+1 sabueso 20.04.15 15:00 #T
+
+
+
+rellotge 25.04.15
+
+
+
+-1
+No s'ha realitzat
+
+1 -#T
+No s'ha realitzat
+
+1 -etiquetes
+No s'ha realitzat
+
+1 lol
+No s'ha realitzat
+
+1 #etiqueta
+No s'ha realitzat
+
+1 lol #etiqueta
+No s'ha realitzat
+Error de format
+
+1 16:00
+No s'ha realitzat
+
+1 00:00
+No s'ha realitzat
+
+
+
+? (#troll,(#belieber.#muchacho))
+1 mazorca 26.04.15 00:00 #belieber #chacho #muchacho
+2 albert 06.06.66 00:00 #belieber #muchacho #troll
+3 espinacas 02.04.96 13:45 #troll
+
+
+
+-3
+
+
+
+? (#troll,(#belieber.#belieber),(#baba,#wanana))
+1 mazorca 26.04.15 00:00 #belieber #chacho #muchacho
+2 albert 06.06.66 00:00 #belieber #muchacho #troll
+
+? (#trol.(#bonachon,#madre),(#belieber.(#troll,(#troll,(#troll.#muchacho)))))
+1 albert 06.06.66 00:00 #belieber #muchacho #troll
+
+? (#troll,(#belieber,#muchacho)) 20.04.15 25.01.18
+1 mazorca 26.04.15 00:00 #belieber #chacho #muchacho
+
+
+
+-1
+
+
+
+? (#troll,(#belieber.#belieber),(#baba,#wanana)) 20.04.15 25.01.18
+
+
+
+passat?
+1 tomate 20.04.15 00:00
+2 b 20.04.15 01:00 #arte #l #s
+3 c 20.04.15 02:00 #arte #trol #y #z
+4 d 20.04.15 03:00 #q #t #x
+5 patata 20.04.15 12:00 #troll
+6 sabueso 20.04.15 15:00 #T
+
+
+
+2 -etiquetes
+No s'ha realitzat
+
+
+
+-1
+No s'ha realitzat
+
+
+
+2 -#l
+No s'ha realitzat
+
+
+
+?
+1 lechuga 25.04.15 17:00 #guachiturro
+2 puerro 25.04.15 23:59
+3 albert 06.06.66 00:00 #belieber #muchacho #troll
+
+
+
+rellotge?
+25.04.15 00:00
+
+rellotge 26.04.15 00:00
+
+
+
+?
+1 albert 06.06.66 00:00 #belieber #muchacho #troll
+
+
+
+passat?
+1 tomate 20.04.15 00:00
+2 b 20.04.15 01:00 #arte #l #s
+3 c 20.04.15 02:00 #arte #trol #y #z
+4 d 20.04.15 03:00 #q #t #x
+5 patata 20.04.15 12:00 #troll
+6 sabueso 20.04.15 15:00 #T
+7 lechuga 25.04.15 17:00 #guachiturro
+8 puerro 25.04.15 23:59
+
+
+
+-1
+No s'ha realitzat
+
+
+
+1 tienequedarerror
+No s'ha realitzat
+
+
+
+?
+1 albert 06.06.66 00:00 #belieber #muchacho #troll
+
+
+
+rellotge 23:59
+
+?
+1 albert 06.06.66 00:00 #belieber #muchacho #troll
+
+
+
+2 -etiquetes
+No s'ha realitzat
+
+?
+1 albert 06.06.66 00:00 #belieber #muchacho #troll
+
+
+
+3 -#belieber
+No s'ha realitzat
+
+
+
+?
+1 albert 06.06.66 00:00 #belieber #muchacho #troll
+
+
+
+? #troll
+1 albert 06.06.66 00:00 #belieber #muchacho #troll
+
+
+
+1 es
+
+2 pornuestrodioselpan
+No s'ha realitzat
+
+
+
+? #troll
+1 es 06.06.66 00:00 #belieber #muchacho #troll
+
+
+
+?
+1 es 06.06.66 00:00 #belieber #muchacho #troll
+
+
+
+1 papoteelmalote
+
+1 papote 28.04.15 16:47
+
+1 papichulo 29.04.15 09:25 #aprobar
+
+1 papirequetechulo 29.04.15 09:25 #eso #noselleva #enlafib
+No s'ha realitzat
+
+
+
+?
+1 papirequetechulo 29.04.15 09:25 #aprobar #belieber #enlafib #eso #muchacho #noselleva #troll
+
+
+
+
+
++ compra 11.01.16 09:30 #lleure #art #plot
+
++ 27.08.15 00:00 #veranito #plot platja
+
++ 09:00 uni #apunts
+No s'ha realitzat
+
++ 13:13 castell 12.05.15 #FTW #armas
+
++ 01.06.15 08:45 hielo final #EC #nota #hielo
+
++ 01.06.15 11:45 hielo final #PRO2 #aprovat #hielo
+
++ 01.06.15 10:30 descans #plot
+
++ 15.12.15 07:45 muntanya #lleure
+
++ descans 09:00 13.05.15 #spa #lleure
+
++ 01.06.15 dinar 14:00 #hielo
+
+
+
+passat?
+1 tomate 20.04.15 00:00
+2 b 20.04.15 01:00 #arte #l #s
+3 c 20.04.15 02:00 #arte #trol #y #z
+4 d 20.04.15 03:00 #q #t #x
+5 patata 20.04.15 12:00 #troll
+6 sabueso 20.04.15 15:00 #T
+7 lechuga 25.04.15 17:00 #guachiturro
+8 puerro 25.04.15 23:59
+
+
+
+?
+1 papirequetechulo 29.04.15 09:25 #aprobar #belieber #enlafib #eso #muchacho #noselleva #troll
+2 castell 12.05.15 13:13 #FTW #armas
+3 descans 13.05.15 09:00 #lleure #spa
+4 hielo final 01.06.15 08:45 #EC #hielo #nota
+5 descans 01.06.15 10:30 #plot
+6 hielo final 01.06.15 11:45 #PRO2 #aprovat #hielo
+7 dinar 01.06.15 14:00 #hielo
+8 platja 27.08.15 00:00 #plot #veranito
+9 muntanya 15.12.15 07:45 #lleure
+10 compra 11.01.16 09:30 #art #lleure #plot
+
+
+
+1 universitat #pro
+
+2 ruines 13:15 #sulet
+
+3 09:45 cavall 12.05.15
+
+4 13.09.16 09:54 descansar
+
+5 parcial 02.06.15 12:00
+
+6 platjeta 12:00 28.08.15
+
+7 16.12.15 tree 08:00
+
+
+
+3 #tag1
+
+3 #tag2
+
+
+
+? 10.10.14 13.05.15
+1 universitat 29.04.15 09:25 #aprobar #belieber #enlafib #eso #muchacho #noselleva #pro #troll
+2 cavall 12.05.15 09:45 #lleure #spa #tag1 #tag2
+3 ruines 12.05.15 13:15 #FTW #armas #sulet
+
+? 01.12.14 28.08.15
+1 universitat 29.04.15 09:25 #aprobar #belieber #enlafib #eso #muchacho #noselleva #pro #troll
+2 cavall 12.05.15 09:45 #lleure #spa #tag1 #tag2
+3 ruines 12.05.15 13:15 #FTW #armas #sulet
+4 parcial 02.06.15 12:00 #plot
+5 platja 27.08.15 00:00 #plot #veranito
+6 platjeta 28.08.15 12:00 #PRO2 #aprovat #hielo
+
+? 28.08.15
+1 platjeta 28.08.15 12:00 #PRO2 #aprovat #hielo
+
+? 05.10.15 19.05.15
+
+
+
+? #plot
+1 parcial 02.06.15 12:00 #plot
+2 platja 27.08.15 00:00 #plot #veranito
+3 compra 11.01.16 09:30 #art #lleure #plot
+
+? #EC
+1 descansar 13.09.16 09:54 #EC #hielo #nota
+
+? #lleure
+1 cavall 12.05.15 09:45 #lleure #spa #tag1 #tag2
+2 muntanya 15.12.15 07:45 #lleure
+3 compra 11.01.16 09:30 #art #lleure #plot
+
+
+
+? 28.08.15 #plot
+
+? #lleure 16.12.15
+
+
+
+? 01.06.15
+
+
+
+passat?
+1 tomate 20.04.15 00:00
+2 b 20.04.15 01:00 #arte #l #s
+3 c 20.04.15 02:00 #arte #trol #y #z
+4 d 20.04.15 03:00 #q #t #x
+5 patata 20.04.15 12:00 #troll
+6 sabueso 20.04.15 15:00 #T
+7 lechuga 25.04.15 17:00 #guachiturro
+8 puerro 25.04.15 23:59
+
+
+
+rellotge?
+26.04.15 23:59
+
+rellotge 07.05.15
+
+rellotge?
+07.05.15 23:59
+
+rellotge 06.05.15 10:00
+No s'ha realitzat
+
+rellotge?
+07.05.15 23:59
+
+
+
+passat?
+1 tomate 20.04.15 00:00
+2 b 20.04.15 01:00 #arte #l #s
+3 c 20.04.15 02:00 #arte #trol #y #z
+4 d 20.04.15 03:00 #q #t #x
+5 patata 20.04.15 12:00 #troll
+6 sabueso 20.04.15 15:00 #T
+7 lechuga 25.04.15 17:00 #guachiturro
+8 puerro 25.04.15 23:59
+9 universitat 29.04.15 09:25 #aprobar #belieber #enlafib #eso #muchacho #noselleva #pro #troll
+
+
+
+? #plot
+1 parcial 02.06.15 12:00 #plot
+2 platja 27.08.15 00:00 #plot #veranito
+3 compra 11.01.16 09:30 #art #lleure #plot
+
+? #EC
+1 descansar 13.09.16 09:54 #EC #hielo #nota
+
+? (#plot,#hielo)
+1 parcial 02.06.15 12:00 #plot
+2 platja 27.08.15 00:00 #plot #veranito
+3 platjeta 28.08.15 12:00 #PRO2 #aprovat #hielo
+4 tree 16.12.15 08:00 #hielo
+5 compra 11.01.16 09:30 #art #lleure #plot
+6 descansar 13.09.16 09:54 #EC #hielo #nota
+
+? (#plot.#art)
+1 compra 11.01.16 09:30 #art #lleure #plot
+
+? (#plot,#art)
+1 parcial 02.06.15 12:00 #plot
+2 platja 27.08.15 00:00 #plot #veranito
+3 compra 11.01.16 09:30 #art #lleure #plot
+
+? ((#plot,#FTW).#armas)
+1 ruines 12.05.15 13:15 #FTW #armas #sulet
+
+? (#plot.(#veranito,#lleure))
+1 platja 27.08.15 00:00 #plot #veranito
+2 compra 11.01.16 09:30 #art #lleure #plot
+
+? ((#art,#PRO2).(#plot,#hielo))
+1 platjeta 28.08.15 12:00 #PRO2 #aprovat #hielo
+2 compra 11.01.16 09:30 #art #lleure #plot
+
+? (((#plot.#lleure),#art),(#hielo.#EC))
+1 compra 11.01.16 09:30 #art #lleure #plot
+2 descansar 13.09.16 09:54 #EC #hielo #nota
+
+? (((#plot,#FTW).(#armas,#art)),(#hielo.(#EC,#PRO2)))
+1 ruines 12.05.15 13:15 #FTW #armas #sulet
+2 platjeta 28.08.15 12:00 #PRO2 #aprovat #hielo
+3 compra 11.01.16 09:30 #art #lleure #plot
+4 descansar 13.09.16 09:54 #EC #hielo #nota
+
+? ((#hielo.(#EC,#PRO2)),((#art,#veranito).#plot))
+1 platja 27.08.15 00:00 #plot #veranito
+2 platjeta 28.08.15 12:00 #PRO2 #aprovat #hielo
+3 compra 11.01.16 09:30 #art #lleure #plot
+4 descansar 13.09.16 09:54 #EC #hielo #nota
+
+
+
++ ordenem 10.10.15 12:15 #a #b #g #h #d #g #f #o #w
+
++ multitag 02.11.46 10:15 #plot #mar #muntanya #plot #plotet #mar
+
+?
+1 cavall 12.05.15 09:45 #lleure #spa #tag1 #tag2
+2 ruines 12.05.15 13:15 #FTW #armas #sulet
+3 parcial 02.06.15 12:00 #plot
+4 platja 27.08.15 00:00 #plot #veranito
+5 platjeta 28.08.15 12:00 #PRO2 #aprovat #hielo
+6 ordenem 10.10.15 12:15 #a #b #d #f #g #h #o #w
+7 muntanya 15.12.15 07:45 #lleure
+8 tree 16.12.15 08:00 #hielo
+9 compra 11.01.16 09:30 #art #lleure #plot
+10 descansar 13.09.16 09:54 #EC #hielo #nota
+11 multitag 02.11.46 10:15 #mar #muntanya #plot #plotet
+
+
+
+rellotge 15.05.15 17:00
+
+
+
+1 cavalls 17.05.15 16:00 #dataenrere
+No s'ha realitzat
+
+2 casa 11.05.15 18:00 #passat
+No s'ha realitzat
+
+
+
+sortir

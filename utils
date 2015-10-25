@@ -1,0 +1,57 @@
+/** @file utils
+    @brief Contenedor de funciones útiles durante la programación y también lugar donde
+    realizar includes que se usan en todos los documentos.
+ */
+
+#ifndef UTILS
+#define UTILS
+
+#include <iostream>
+
+using namespace std;
+
+/** Función para printar los mensajes de error */
+inline
+void mensaje_error() {
+    cout << "No s'ha realitzat" << endl;
+}
+
+/** Funcions per fer lectures de tipus basics. */
+inline int
+readint ()
+{
+  int n;
+  cin >> n;
+  return n;
+}
+inline char
+readchar ()
+{
+  char n;
+  cin >> n;
+  return n;
+}
+
+inline bool
+readbool ()
+{
+  string n;
+  cin >> n;
+  return (n=="true");
+}
+inline double
+readdouble ()
+{
+  double n;
+  cin >> n;
+  return n;
+}
+inline string
+readstring ()
+{
+  string s;
+  cin >> s;
+  return s;
+}
+
+#endif
